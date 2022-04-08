@@ -1,0 +1,32 @@
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).exe
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).deps.json
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).runtimeconfig.json
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).runtimeconfig.dev.json
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).dll
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\ref\Turn Based (Multiple Party Members).dll
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).pdb
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).csprojAssemblyReference.cache
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).AssemblyInfoInputs.cache
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).AssemblyInfo.cs
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).csproj.CoreCompileInputs.cache
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).dll
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\ref\Turn Based (Multiple Party Members).dll
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).pdb
+C:\Users\Walter D\source\repos\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).genruntimeconfig.cache
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).exe
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).deps.json
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).runtimeconfig.json
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).runtimeconfig.dev.json
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).dll
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\ref\Turn Based (Multiple Party Members).dll
+E:\Turn Based (Multiple Party Members)\bin\Debug\net5.0\Turn Based (Multiple Party Members).pdb
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).GeneratedMSBuildEditorConfig.editorconfig
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).AssemblyInfoInputs.cache
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).AssemblyInfo.cs
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).csproj.CoreCompileInputs.cache
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).dll
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\ref\Turn Based (Multiple Party Members).dll
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).pdb
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).genruntimeconfig.cache
+E:\Turn Based (Multiple Party Members)\obj\Debug\net5.0\Turn Based (Multiple Party Members).csprojAssemblyReference.cache
